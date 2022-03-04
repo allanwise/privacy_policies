@@ -1,0 +1,21 @@
+@font-face{
+ font-family: blue;
+ src: url(productsansbold.ttf);
+}
+
+body{
+ font-family: blue;
+ text-align: center;
+ padding-left: 20px;
+ padding-right: 20px;
+}
+h1,h2,h3,h4{
+ color: blue;
+}
+li{
+ list-style: none;
+ color: #777;
+}
+p{
+ color: #777;
+}
